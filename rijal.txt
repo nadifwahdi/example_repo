@@ -1,0 +1,5 @@
+Created by Rijal Ghodi on January 15, 2024
+email : rijalghodi10@gmail.com
+github : https://github.com/rijalghodi
+
+This is a sample text created to fulfill the day 3 coding assignment for a machine learning course conducted by dibimbing.id
