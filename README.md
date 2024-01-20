@@ -1,4 +1,17 @@
-# THIS IS EXAMPLE REPO
-## This example repo is for Dibimbing course
+Sistem LMS Dibimbing
 
-You can edit this README.md
+Sistem LMS adalah proyek yang bertujuan untuk menyediakan sebuah platform learning management system yang lengkap dan terintegrasi dengan video pembelajaran. Sistem ini akan mencakup fitur-fitur berikut:
+
+    Katalog Video
+    Absensi
+    Peringkat Hasil Pembelajaran
+    Member yang login
+
+Tim
+
+    Arthur Oktavianus - Project Manager
+    
+
+Lisensi
+
+Sistem LMS dilisensikan di bawah MIT.
