@@ -1,4 +1,4 @@
 # THIS IS EXAMPLE REPO
 ## This example repo is for Dibimbing course
 
-You can edit this README.md
+This is repository for Day 4 Assignment - Alvin Kurniawan Hanafie
