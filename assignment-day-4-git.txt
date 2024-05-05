@@ -1,1 +1,3 @@
 Hello World! This is just for example, enjoy learning Git!
+
+Hello World! I'm learning to contribute in project using Git - Joseph

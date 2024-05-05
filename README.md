@@ -1,4 +1,2 @@
-# THIS IS EXAMPLE REPO
-## This example repo is for Dibimbing course
+Assignment Day 4 - GIT untuk mencoba (CREATE REPOSITORY, COMMIT, PUSH, PULL, & BRANCH) - Joseph
 
-You can edit this README.md

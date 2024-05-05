@@ -61,3 +61,6 @@ for epoch in iterator:
                                               running_loss / len(dataloader)))
 
 model.normalize_parameters()
+
+
+#Add new line to try commit
